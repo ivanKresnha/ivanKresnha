@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivan Kresnha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">"I am a student from Indonesia who enjoys coding and wants to become a programmer. I am currently learning for that."</h3>
 
 - 🌱 I’m currently learning **Frameworks, java,C/C++, JS, Mobile Development**
 
