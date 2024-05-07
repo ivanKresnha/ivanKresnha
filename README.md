@@ -1,1 +1,2 @@
-Hello! My name is Ivan an undergraduate collage studednt intrested in game making
+Hello! My name is Ivan an undergraduate collage student 
+intrested in making game and application 
